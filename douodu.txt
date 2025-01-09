@@ -6,7 +6,7 @@
 { "url": "https://mi.mpanso.me/DEMO.json", "name": "📚️小米📁" }, 
 { "url": "https://fmbox.cc", "name": "📁星辰📁" }, 
 { "url": "http://我不是.摸鱼儿.com", "name": "📚️摸鱼📁" }, 
-{ "url": "https://gh.jasonzeng.dev/https://raw.githubusercontent.com/gta6664/003/refs/heads/main/无敌凯少爷单仓免费二接口禁止贩卖_举报贩卖有奖.json", "name": "📚️凯少爷影视📁" }, 
+{ "url": "https://git.acwing.com/SVIP/007/-/raw/main/%E6%97%A0%E6%95%8C%E5%87%AF%E5%B0%91%E7%88%B7%E8%BA%BA%E5%B9%B3%E5%8D%95%E4%BB%93%E6%8E%A5%E5%8F%A3%F0%9F%88%B2%E6%AD%A2%E8%B4%A9%E5%8D%96%EF%BC%8C%E4%B8%BE%E6%8A%A5%E8%B4%A9%E5%8D%96%E6%9C%89%E5%A5%96.json"", "name": "📚️凯少爷影视📁" }, 
 { "url": "https://ghproxy.cc/https://raw.githubusercontent.com/maoystv/6/main/001.json", "name": "📚️分享📁" }, 
 { "url": "http://xn--dkw0c.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌", "name": "📚️欧歌📁" }, 
 { "url": "https://tv.菜妮丝.top", "name": "📚️菜妮丝接口📁" }, 
