@@ -15,5 +15,5 @@
 { "url": "https://www.100km.top/0", "name": "📚️Leezn📁" }, 
 { "url": "https://tv.xn--11x555b.top/svip", "name": "📚️蜗牛📁" }, 
 { "url": "https://9xi4o.tk/0725.json", "name": "📚️酷云七七🍭" }, 
-{ "url": "http://home.jundie.top:81/top98.json", "name": "📚️俊哥接口🍭" }, 
+{ "url": "http://home.jundie.top:81/top98.json", "name": "📚️俊哥接口🍭" }
  ] }
