@@ -11,7 +11,6 @@
 { "url": "https://weixine.net/ysc.json", "name": "📚️运输📁" }, 
 { "url": "https://m.n13.club/jk.json", "name": "📚️猫迷📁" }, 
 { "url": "https://tv.xn--yhqu5zs87a.top", "name": "📚️莱斯📁" }, 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json", "name": "📚️高天📁" }, 
 { "url": "https://xn--8owq8u.com/tv/", "name": "📚️毒盒📁" }, 
 { "url": "https://www.100km.top/0", "name": "📚️Leezn📁" }, 
 { "url": "https://tv.xn--11x555b.top/svip", "name": "📚️蜗牛📁" }, 
