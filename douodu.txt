@@ -24,9 +24,5 @@
 {"url":"https://tv.xn--11x555b.top/svip","name":"📚️蜗牛📁"},
 {"url":"https://9xi4o.tk/0725.json","name":"📚️南瓜🍭"},
 {"url":"https://9xi4o.tk/0725.json","name":"📚️酷云七七🍭"},
-{"url":"http://home.jundie.top:81/top98.json","name":"📚️俊哥接口🍭"},
-{"url":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt","name":"💚多多优选仓🍭软件接口🍭"},
-{"url":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多APP.txt","name":"💛多多公众仓🍭完全免费🍭"},
-{"url":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号应用边界.txt","name":"❤️多多聚合仓🍭严禁贩卖🍭"},
-{"url":"clan://localhost/tvbox/duo.json","name":"📚️多多本地仓🍭不做韭菜🍭"}
+{"url":"http://home.jundie.top:81/top98.json","name":"📚️俊哥接口🍭"}
 ]}
