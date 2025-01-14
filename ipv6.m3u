@@ -10,7 +10,7 @@ http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 https://ali.hlspull.yximgs.com/live/diyp_fh1.flv
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
-https://ali.hlspull.yximgs.com/live/diyp_fh2.flv
+https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 #EXTINF:-1 tvg-id="无线新闻台" tvg-name="无线新闻台" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="港台",无线新闻台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -29,6 +29,7 @@ http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://live.fanmingming.cn/tv/TVBPlus.png" group-title="港台",TVBPlus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 #EXTINF:-1 tvg-id="東森新聞" tvg-name="東森新聞" tvg-logo="https://live.fanmingming.cn/tv/東森新聞.png" group-title="港台",東森新聞
+https://ali.hlspull.yximgs.com/live/moa35.flv
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png" group-title="港台",寰宇新闻
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
